@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Kwabena Agyeman </h1>
-<h3 align="center">A passionate Software Engineer from 0x41414141, Ghana</h3>
+<h3 align="center">A passionate Software Engineer from Accra, Ghana</h3>
 
 - 🔭 I’m currently working on [Origo Health](https://origohealth.net/)
 
