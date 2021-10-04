@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Kwabena Agyeman/h1>
+<h1 align="center">Hi there 👋, I'm Kwabena Agyeman </h1>
 <h3 align="center">A passionate Software Engineer from 0x41414141, Ghana</h3>
 
 - 🔭 I’m currently working on [Origo Health](https://origohealth.net/)
@@ -39,13 +39,10 @@
 </p>
 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=profclems&show_icons=true&count_private=true" alt="profclems" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Kwabena-Agyeman&show_icons=true&count_private=true" alt="Kwabena-Agyeman" /> 
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/clementsam75" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="clementsam75" height="20" width="20" /></a>
-  <a href="https://stackoverflow.com/users/5433233" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="5433233" height="20" width="20" /></a>
-  <a href="https://twitter.com/clems_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="clems_dev" height="20" width="20" /></a>
-  <a href="https://dev.to/profclems" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="profclems" height="20" width="20" /></a>
-  <a href="https://instagram.com/clems_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="clems_dev" height="20" width="20" /></a>
+  <a href="https://www.linkedin.com/in/kwabena-agyeman-500704100/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Kwabena-Agyeman" height="20" width="20" /></a>
+
 </p>
