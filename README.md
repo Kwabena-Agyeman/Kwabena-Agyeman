@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Origo Health](https://origohealth.net/)
 
-- 🌱 I'm currently learning React-Native, The MERN Stack
+- 🌱 I'm currently learning about **React-Native, The MERN Stack**
 
 <!-- 
 - 🎓 I’m currently pursuing **Computer Science and Engineering**
