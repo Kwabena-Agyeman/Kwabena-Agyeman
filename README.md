@@ -22,7 +22,9 @@
 - 📫 How to reach me **kagyeman@ymail.com**
 
 <!-- ⚡ Fun fact **I taught myself to code at the age of 14**-->
-<!--
+
+
+
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/> 
@@ -37,10 +39,12 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="20" height="20"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/>
 </p>
--->
-<p align="center">
+
+
+
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kwabena-Agyeman&show_icons=true&count_private=true" alt="Kwabena-Agyeman" /> 
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kwabena-agyeman-500704100/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Kwabena-Agyeman" height="20" width="20" /></a>
