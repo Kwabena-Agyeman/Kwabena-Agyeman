@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Kwabena Agyeman </h1>
 <h3 align="center">A passionate Software Engineer from Accra, Ghana</h3>
 
-- 🔭 I’m currently working on [Origo Health](https://origohealth.net/)
+- 🔭 I’m currently working at [Origo Health](https://origohealth.net/)
 
 - 🌱 I'm currently learning about **React-Native, The MERN Stack**
 
@@ -17,7 +17,7 @@
   
 - 👨‍💻 All of my projects are available at [kwabena-agyeman.com](https://www.kwabena-agyeman.com/)
 
-- 💬 Ask me about **JavaScript, React, ReactNative, ExpresJS**
+- 💬 Ask me about **JavaScript, React, ReactNative, ExpresJS, Node JS, FireBase, MongoDB**
 
 - 📫 How to reach me **kagyeman@ymail.com**
 
