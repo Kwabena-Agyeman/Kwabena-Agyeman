@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Kwabena Agyeman </h1>
 <h3 align="center">A passionate Software Engineer from Accra, Ghana</h3>
 
-- 🔭 I’m currently working at [Origo Health](https://origohealth.net/)
+- 🔭 I’m currently working with [Origo Software](https://www.origo-inc.com/)
 
 - 🌱 I'm currently learning about **React-Native, The MERN Stack**
 
