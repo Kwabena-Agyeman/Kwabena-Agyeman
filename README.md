@@ -14,7 +14,7 @@
 
 -->
   
-- 👨‍💻 All of my projects are available at [kwabena-agyeman.com](https://www.kwabena-agyeman.com/)
+- 👨‍💻 All of my projects are available at [kwabena-agyeman.me](https://www.kwabena-agyeman.me/)
 
 - 💬 Ask me about **JavaScript, React, ReactNative, ExpresJS, Node JS, FireBase, MongoDB**
 
