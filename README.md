@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from Accra, Ghana</h3>
 
 
-- 🌱 I'm currently learning about **React-Native, The MERN Stack**
+- 🌱 I'm currently learning about **React, Typescript, NodeJS, Javascript FullStack Applications**
 
 <!-- 
 - 🎓 I’m currently pursuing **Computer Science and Engineering**
