@@ -1,8 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Kwabena Agyeman </h1>
-<h3 align="center">A passionate Software Engineer from Accra, Ghana</h3>
+<h3 align="center">A Software Developer with a knack for turning caffeine into code.</h3>
+<h3 align="center">Let's brew some incredible digital solutions together!</h3>
 
 
-- 🌱 I'm currently learning about **React, Typescript, NodeJS, Javascript FullStack Applications**
+- 🌱 I'm currently learning about **Angular, Ruby on Rails, Web Assembly**
 
 <!-- 
 - 🎓 I’m currently pursuing **Computer Science and Engineering**
@@ -24,7 +25,7 @@
 
 
 
-<!-- <p align="left">
+ <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> 
@@ -38,7 +39,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="20" height="20"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/>
 </p>
- -->
+ 
 
 
 <!-- <p align="center">
